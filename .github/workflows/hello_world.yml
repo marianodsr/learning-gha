@@ -11,4 +11,4 @@ jobs:
       - name: Print multiple stuff
         run: |
             echo "First print"
-            echo "First print"
+            echo "Second print"
