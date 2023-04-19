@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: run tests
-        run: go test $(pwd)/...
+        run: go test
 
